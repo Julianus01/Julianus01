@@ -96,3 +96,7 @@
 ## 🤝 Let's connect
 <a href="https://www.linkedin.com/in/iulian-crisan-6a9210162/" target="blank"><img align="center" src="https://img.icons8.com/color/344/linkedin.png" alt="@andermendoza" height="40" width="40" /></a>
 <a href="https://twitter.com/IulianCrisan" target="blank"><img align="center" src="https://img.icons8.com/color/344/twitter--v1.png" alt="david mendoza ramos" height="40" width="40" /></a>
+
+## ⚡ My mantra
+![image](https://user-images.githubusercontent.com/32306531/197330604-abeffce5-6714-40e2-a65e-d05255b2bba4.png)
+
