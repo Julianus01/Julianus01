@@ -15,7 +15,6 @@
     <td width="50%" valign="top">
       <div style="padding: 50px">
         <h3>🐼 Pandaflag</h3>
-        <br />
         <p>
           Coming back to your own craft and helping others is crucial for future innovation and progress. With
           <strong>Pandaflag</strong>, you can deploy new features safely and with confidence. Take control of your
@@ -30,7 +29,6 @@
     </td>
     <td width="50%" valign="top">
       <h3>📖 Bible Journey</h3>
-      <br />
       <p>
         A brand new experience of reading the <strong>bible</strong> online ( Romanian ). A clean design that helps the
         user emerse himself into the words he is reading.
@@ -48,7 +46,6 @@
   <tr>
     <td width="50%" valign="top">
       <h3>🌐 Personal Website</h3>
-      <br />
       <p>
         Her business card is a website, the colors are her identity, the design is her personality. A personal
         presentational website for a ruby developer.
@@ -62,7 +59,6 @@
     </td>
     <td width="50%" valign="top">
       <h3>🌐 Arctec</h3>
-      <br />
       <p>
         An outsourcing company that builds web and mobile applications. With new ideas and a fresh look, they are on a
         journey to create and design the best products of this decade.
