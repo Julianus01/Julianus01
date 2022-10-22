@@ -15,13 +15,14 @@
     <td width="50%" valign="top">
       <div style="padding: 50px">
         <h3>🐼 Pandaflag</h3>
+        <br />
         <p>
           Coming back to your own craft and helping others is crucial for future innovation and progress. With
           <strong>Pandaflag</strong>, you can deploy new features safely and with confidence. Take control of your
           outcome.
         </p>
         <br />
-        <a href="https://www.pandaflag.com/" target="_blank">
+        <a href="https://www.pandaflag.com/">
           See more
         </a>
         <br />
@@ -29,12 +30,13 @@
     </td>
     <td width="50%" valign="top">
       <h3>📖 Bible Journey</h3>
+      <br />
       <p>
         A brand new experience of reading the <strong>bible</strong> online ( Romanian ). A clean design that helps the
         user emerse himself into the words he is reading.
       </p>
       <br />
-      <a href="https://biblejourney.co/" target="_blank">
+      <a href="https://biblejourney.co/">
         See more
       </a>
       <br />
@@ -46,12 +48,13 @@
   <tr>
     <td width="50%" valign="top">
       <h3>🌐 Personal Website</h3>
+      <br />
       <p>
         Her business card is a website, the colors are her identity, the design is her personality. A personal
         presentational website for a ruby developer.
       </p>
       <br />
-      <a href="https://www.claudiavanea.com/" target="_blank">
+      <a href="https://www.claudiavanea.com/">
         See more
       </a>
       <br />
@@ -59,12 +62,29 @@
     </td>
     <td width="50%" valign="top">
       <h3>🌐 Arctec</h3>
+      <br />
       <p>
         An outsourcing company that builds web and mobile applications. With new ideas and a fresh look, they are on a
         journey to create and design the best products of this decade.
       </p>
       <br />
-      <a href="https://kind-shockley-2c7b2e.netlify.app/" target="_blank">
+      <a href="https://kind-shockley-2c7b2e.netlify.app/">
+        See more
+      </a>
+      <br />
+      <br />
+    </td>
+  </tr>
+
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🔍 Repos Viewer</h3>
+      <p>
+        Simple web app to inspect repositories of a github user. Results are displayed in pages, showcasing number of stars and
+        forks for each repo. Works by URL so links can be shared.
+      </p>
+      <br />
+      <a href="https://www.claudiavanea.com/">
         See more
       </a>
       <br />
