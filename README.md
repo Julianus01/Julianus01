@@ -85,7 +85,7 @@
         forks for each repo. Works by URL so links can be shared.
       </p>
       <br />
-      <a href="https://www.claudiavanea.com/">
+      <a href="https://repos-viewer.vercel.app/">
         See more
       </a>
       <br />
