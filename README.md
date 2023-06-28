@@ -91,7 +91,6 @@
       <br />
       <br />
     </td>
-
      <td width="50%" valign="top">
       <h3>🧙 Personality Predictor ( warning fun project )</h3>
       <p>
