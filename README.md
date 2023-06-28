@@ -91,10 +91,8 @@
       <br />
       <br />
     </td>
-  </tr>
 
-   <tr>
-    <td width="50%" valign="top">
+     <td width="50%" valign="top">
       <h3>🧙 Personality Predictor ( warning fun project )</h3>
       <p>
         Let the predictor guess your personality based on your input. It will try its best using AI and fancy technologies which nobody understands to be as close to truth as possible.
