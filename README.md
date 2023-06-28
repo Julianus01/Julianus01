@@ -8,6 +8,7 @@
 - 👉 Checkout my [website](https://www.julianc.io/)
 - 📫 You can reach out to me at iuliancrisan01@gmail.com
 - 🏍️ Motorcycle lover
+- 🏎️ Racing Gran Turismo 7 in my free time
 
 ## 📦 Projects
 <table bordercolor="#66b2b2">
