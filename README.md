@@ -30,7 +30,25 @@
         <br />
         <br />
     </td>
-    <td width="50%" valign="top">
+
+        <td width="50%" valign="top">
+      <div style="padding: 50px">
+        <h3>🐼 Pandalinks</h3>
+        <br />
+        <p>
+          Had some fun creating a Bookmark Manager an trying to use it for myself. With <strong>Pandalinks</strong> I wanted to make easier tagging, searching and overall overview of all bookmarks.
+        </p>
+        <br />
+        <a href="https://www.pandaflag.com/">
+          See more
+        </a>
+        <br />
+        <br />
+    </td>
+  </tr>
+
+  <tr>
+     <td width="50%" valign="top">
       <h3>📖 Bible Journey</h3>
       <br />
       <p>
@@ -45,9 +63,7 @@
       <br />
       </div>
     </td>
-  </tr>
-
-  <tr>
+    
     <td width="50%" valign="top">
       <h3>🌐 Personal Website</h3>
       <br />
@@ -62,7 +78,10 @@
       <br />
       <br />
     </td>
-    <td width="50%" valign="top">
+  </tr>
+
+  <tr>
+     <td width="50%" valign="top">
       <h3>🌐 Arctec</h3>
       <br />
       <p>
@@ -76,9 +95,7 @@
       <br />
       <br />
     </td>
-  </tr>
-
-  <tr>
+    
     <td width="50%" valign="top">
       <h3>🔍 Repos Viewer</h3>
       <p>
@@ -91,6 +108,9 @@
       </a>
       <br />
       <br />
+  </tr>
+
+  <tr>
     </td>
      <td width="50%" valign="top">
       <h3>🧙 Personality Predictor ( warning fun project )</h3>
