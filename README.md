@@ -5,6 +5,7 @@
 - 👨‍💻 Currently working at [Epilot](https://epilot.cloud/en/)
 - 🌍 Based in Romania
 - 🐼 Created [Pandaflag](https://www.pandaflag.com/) Feature Flags service
+- 🐼 Created [Pandalinks](https://www.pandalinks.co/) Bookmarks Manager
 - 👉 Checkout my [website](https://www.julianc.io/)
 - 📫 You can reach out to me at iuliancrisan01@gmail.com
 - 🏍️ Motorcycle lover
