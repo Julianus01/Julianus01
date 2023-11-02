@@ -38,7 +38,7 @@
         user emerse himself into the words he is reading.
       </p>
       <br />
-      <a href="https://biblejourney.co/">
+      <a href="https://bible-journey.vercel.app/">
         Check it out
       </a>
       <br />
@@ -69,7 +69,7 @@
         Minimalist bookmarks manager. Work in progress.
       </p>
       <br />
-      <a href="https://biblejourney.co/">
+      <a href="https://www.pandalinks.co/">
         Check it out
       </a>
       <br />
