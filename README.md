@@ -6,7 +6,7 @@
 - 🌍 Based in Romania
 - 🐼 Created [Pandaflag](https://www.pandaflag.com/) Feature Flags service
 - 🐼 Created [Pandalinks](https://www.pandalinks.co/) Bookmarks Manager
-- 👉 Checkout my [website](https://www.julianc.io/)
+- 👉 Checkout my [website](https://julianc-v2.vercel.app/)
 - 📫 You can reach out to me at iuliancrisan01@gmail.com
 - 🏍️ Motorcycle lover
 - 🏎️ Racing Gran Turismo 7 in my free time
@@ -25,7 +25,7 @@
         </p>
         <br />
         <a href="https://www.pandaflag.com/">
-          See more
+          Check it out
         </a>
         <br />
         <br />
@@ -39,7 +39,38 @@
       </p>
       <br />
       <a href="https://biblejourney.co/">
-        See more
+        Check it out
+      </a>
+      <br />
+      <br />
+      </div>
+    </td>
+  </tr>
+
+   <tr>
+    <td width="50%" valign="top">
+      <div style="padding: 50px">
+        <h3>🧔‍♂️ My website</h3>
+        <br />
+        <p>
+          A bit about myself, a bit about my work, a bit about my mindset.
+        </p>
+        <br />
+        <a href="https://julianc-v2.vercel.app/" target="_blank">
+          Check it out
+        </a>
+        <br />
+        <br />
+    </td>
+    <td width="50%" valign="top">
+      <h3>🐼 Pandalinks</h3>
+      <br />
+      <p>
+        Minimalist bookmarks manager. Work in progress.
+      </p>
+      <br />
+      <a href="https://biblejourney.co/">
+        Check it out
       </a>
       <br />
       <br />
@@ -49,15 +80,15 @@
 
   <tr>
     <td width="50%" valign="top">
-      <h3>🌐 Personal Website</h3>
+      <h3>🌐 Portfolio Website</h3>
       <br />
       <p>
         Her business card is a website, the colors are her identity, the design is her personality. A personal
         presentational website for a ruby developer.
       </p>
       <br />
-      <a href="https://www.claudiavanea.com/">
-        See more
+      <a href="https://admiring-benz-a5ddae.netlify.app/">
+        Check it out
       </a>
       <br />
       <br />
@@ -71,7 +102,7 @@
       </p>
       <br />
       <a href="https://kind-shockley-2c7b2e.netlify.app/">
-        See more
+        Check it out
       </a>
       <br />
       <br />
@@ -87,7 +118,7 @@
       </p>
       <br />
       <a href="https://repos-viewer.vercel.app/">
-        See more
+        Check it out
       </a>
       <br />
       <br />
@@ -99,7 +130,7 @@
       </p>
       <br />
       <a href="https://personality-predictor.vercel.app/">
-        See more
+        Check it out
       </a>
       <br />
       <br />
