@@ -6,7 +6,7 @@
 - 🌍 Based in Romania
 - 🐼 Created [Pandaflag](https://www.pandaflag.com/) ( temp unav ) Feature Flags service
 - 🐼 Created [Pandalinks](https://www.pandalinks.co/) Bookmarks Manager
-- 👉 Checkout my [website](https://julianc-v2.vercel.app/)
+- 👉 Checkout my [website](https://www.thejulianc.com/)
 - 📫 You can reach out to me at iuliancrisan01@gmail.com
 - 🏍️ Motorcycle lover
 - 🏎️ Racing Gran Turismo 7 in my free time
