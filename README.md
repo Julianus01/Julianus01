@@ -4,7 +4,7 @@
 - ⚡ I'm a **React Frontend Developer** with an eye for **Design**
 - 👨‍💻 Currently working at [Epilot](https://epilot.cloud/en/)
 - 🌍 Based in Romania
-- 🐼 Created [Pandaflag](https://www.pandaflag.com/) ( temp unav ) Feature Flags service
+- 🐼 Created [Pandaflag](https://www.pandaflag.net/) Feature Flags service
 - 🐼 Created [Pandalinks](https://www.pandalinks.co/) Bookmarks Manager
 - 👉 Checkout my [website](https://www.thejulianc.com/)
 - 📫 You can reach out to me at iuliancrisan01@gmail.com
