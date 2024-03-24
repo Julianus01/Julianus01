@@ -56,7 +56,7 @@
           A bit about myself, a bit about my work, a bit about my mindset.
         </p>
         <br />
-        <a href="https://julianc-v2.vercel.app/" target="_blank">
+        <a href="https://www.thejulianc.com/" target="_blank">
           Check it out
         </a>
         <br />
